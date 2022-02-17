@@ -1,2 +1,9 @@
-# recklesslabs-payroll
-are you even web3 if you don't pay your employees through a smart contract?
+# Solidity Payroll Contract
+
+A very simple Payroll contract. I think it is a good starting point to bootstrap your own payroll contract.
+
+Extra features that can be added in the future:
+
+- Add an oracle for ETH payments
+- Add an owner-only payout function
+- Add relayer support
