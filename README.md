@@ -1,6 +1,6 @@
 # Solidity Payroll Contract
 
-A very simple Payroll contract. I think it is a good starting point to bootstrap your own payroll contract.
+A very simple Payroll contract written in solidity. I think it is a good starting point to bootstrap your own payroll contract.
 
 Extra features that can be added in the future:
 
