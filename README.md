@@ -4,6 +4,6 @@ A very simple Payroll contract written in solidity. I think it is a good startin
 
 Extra features that can be added in the future:
 
-- Add an oracle for ETH payments
-- Add an owner-only payout function
-- Add relayer support
+- Oracle for ETH payments
+- Relayer support
+- Nice-to-haves like owner-only payout-all function
